@@ -9,7 +9,9 @@ To run the tests run the following command from AutomatedTests folder ```python3
 ## Pre-requisites
 
 Fill in the required details in config.txt file 
+
 The details to fill are:
+
     - Url
     - Promotion name
     - Substring to find
