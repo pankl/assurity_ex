@@ -18,4 +18,4 @@ The details to fill are:
 
 ### *__Notes:__*
 
-*Although the exercise asks to write single test to assert on all three conditions, from usubiluty repeatability and best practices point of view it would make more sense to split into three different test cases*
+*Although the exercise asks to write single test to assert on all three conditions, from usability repeatability and best practices point of view it would make more sense to split into three different test cases*
