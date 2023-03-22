@@ -10,6 +10,6 @@ To run the tests run the following command from AutomatedTests folder ```python3
 
 Fill in the required details in config.txt file 
 
-*__Notes:__*
+### *__Notes:__*
 
 *Although the exercise asks to write single test to assert on all three conditions, it would make more sense to split into three different test cases*
