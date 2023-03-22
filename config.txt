@@ -1,4 +1,4 @@
 [global]
-BaseUri = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
-PromotionName = Gallery
-DescriptionSubString = Good position in category
+BaseUri = %Fill in url%
+PromotionName = %Fill in promotion name%
+DescriptionSubString = %Fill in description sub string to look for in a description of promotion%
